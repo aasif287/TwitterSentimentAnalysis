@@ -5,34 +5,34 @@ This hands-on project focuses on performing sentiment analysis on Twitter data. 
 
 ## Project Structure
 
-### Import Libraries and Datasets
+### Task 1.) Import Libraries and Datasets
 Import necessary libraries and datasets for analysis and model training.
 
-### Perform Exploratory Data Analysis
+### Task 2.) Perform Exploratory Data Analysis
 Explore the Twitter data to gain a better understanding of its structure, patterns, and characteristics.
 
-### Plot the Word Cloud
+### Task 3.) Plot the Word Cloud
 Create a word cloud visualization to highlight frequently occurring words in the dataset.
 
-### Perform Data Cleaning - Removing Punctuation
+### Task 4.) Perform Data Cleaning - Removing Punctuation
 Clean the data by removing punctuation from the text.
 
-### Perform Data Cleaning - Remove Stop Words
+### Task 5.) Perform Data Cleaning - Remove Stop Words
 Further clean the data by removing stop words from the text.
 
-### Perform Count Vectorization (Tokenization)
+### Task 6.) Perform Count Vectorization (Tokenization)
 Tokenize the text data using Count Vectorization.
 
-### Create a Pipeline to Remove Stop Words, Punctuation, and Perform Tokenization
+### Task 7.) Create a Pipeline to Remove Stop Words, Punctuation, and Perform Tokenization
 Build a pipeline to streamline the process of data cleaning and tokenization.
 
-### Understand the Theory and Intuition Behind Naive Bayes Classifiers
+### Task 8.) Understand the Theory and Intuition Behind Naive Bayes Classifiers
 Explore the theory and intuition behind Naive Bayes classifiers, a commonly used algorithm for sentiment analysis.
 
-### Train a Naive Bayes Classifier
+### Task 9.) Train a Naive Bayes Classifier
 Implement and train a Naive Bayes classifier using the preprocessed Twitter data.
 
-### Assess Trained Model Performance
+### Task 10.) Assess Trained Model Performance
 Evaluate the performance of the trained Naive Bayes classifier in terms of accuracy and other relevant metrics.
 
 ## Dependencies
