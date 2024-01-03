@@ -26,13 +26,10 @@ Tokenize the text data using Count Vectorization.
 ### Task 7.) Create a Pipeline to Remove Stop Words, Punctuation, and Perform Tokenization
 Build a pipeline to streamline the process of data cleaning and tokenization.
 
-### Task 8.) Understand the Theory and Intuition Behind Naive Bayes Classifiers
-Explore the theory and intuition behind Naive Bayes classifiers, a commonly used algorithm for sentiment analysis.
-
-### Task 9.) Train a Naive Bayes Classifier
+### Task 8.) Train a Naive Bayes Classifier
 Implement and train a Naive Bayes classifier using the preprocessed Twitter data.
 
-### Task 10.) Assess Trained Model Performance
+### Task 9.) Assess Trained Model Performance
 Evaluate the performance of the trained Naive Bayes classifier in terms of accuracy and other relevant metrics.
 
 ## Dependencies
