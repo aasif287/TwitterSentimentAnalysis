@@ -29,8 +29,6 @@ Build a pipeline to streamline the process of data cleaning and tokenization.
 ### Task 8.) Train a Naive Bayes Classifier
 Implement and train a Naive Bayes classifier using the preprocessed Twitter data.
 
-### Task 9.) Assess Trained Model Performance
-Evaluate the performance of the trained Naive Bayes classifier in terms of accuracy and other relevant metrics.
 
 ## Dependencies
 - Python 3.x
