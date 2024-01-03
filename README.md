@@ -5,9 +5,6 @@ This hands-on project focuses on performing sentiment analysis on Twitter data. 
 
 ## Project Structure
 
-### Understand the Problem Statement and Business Case
-Gain insights into the problem statement and the business case for Twitter Sentiment Analysis.
-
 ### Import Libraries and Datasets
 Import necessary libraries and datasets for analysis and model training.
 
